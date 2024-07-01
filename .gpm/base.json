@@ -1,0 +1,8 @@
+{
+    "base_path": "/var/projects/buzz/buzz-intern-server/chatgpt/.gpm/base.json",
+    "gpm_path": "/var/projects/buzz/buzz-intern-server/chatgpt/.gpm",
+    "name": "dj-chatgpt",
+    "project_type": "project",
+    "repository_url": "https://github.com/px57/dj-chatgpt.git",
+    "root_path": "/var/projects/buzz/buzz-intern-server/chatgpt"
+}
